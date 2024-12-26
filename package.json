@@ -2,6 +2,9 @@
   "name": "chatbot_impl",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "dev": "npx tsc ./src/index.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

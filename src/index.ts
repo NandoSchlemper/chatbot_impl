@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+const canva = document.getElementById("app") as HTMLElement
+
+console.log(canva)
