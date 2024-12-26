@@ -1,2 +1,2 @@
-# chatbot_impl
-Chatbot implementations
+# Noru
+Multiplayer Magic Game
